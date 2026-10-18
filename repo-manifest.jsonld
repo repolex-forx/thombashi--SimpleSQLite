@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/thombashi/SimpleSQLite/commit/aca1601933ab2984a436d504fab951f9f9ed7cfe",
       "git:hexsha": "aca1601933ab2984a436d504fab951f9f9ed7cfe",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T09:24:24.388377+00:00"
     },
     {
       "@id": "https://repolex.ai/r/thombashi/SimpleSQLite/commit/1ca535156f021289b1d7d7c5dd028b8d9d61142c",
